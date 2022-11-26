@@ -1,0 +1,32 @@
+/* Write your CSS code here. */
+.bg-container {
+  background-image: linear-gradient(to right, #ffebeb, #ffc0bb);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-container {
+  background-color: white;
+  border-radius: 20px;
+  padding: 30px;
+  width: 600px;
+}
+.ul-container {
+  display: flex;
+  justify-content: space-around;
+}
+.thankyou-card {
+  background-color: white;
+  border-radius: 20px;
+  padding: 50px;
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.love-img {
+  width: 100px;
+  height: 100px;
+}
